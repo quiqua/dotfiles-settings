@@ -1,0 +1,16 @@
+{
+    "bootstrapped": true,
+    "in_process_packages":
+    [
+    ],
+    "installed_packages":
+    [
+        "Material Theme",
+        "Package Control",
+        "Theme - Centurion",
+        "Theme - Flatland",
+        "Theme - Glacier",
+        "Theme - Spacegray",
+        "Wrap Plus"
+    ]
+}
